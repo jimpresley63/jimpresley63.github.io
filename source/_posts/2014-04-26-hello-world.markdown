@@ -5,7 +5,6 @@ date: 2014-04-26 16:27:30 -0500
 comments: true
 categories:
 ---
-# Hello world!
 Given that I am a software developer first and foremost, I figured my first blog
 post here should be titled "Hello world!" If you're reading this, I've already
 felt that special god-like feeling we geeks receive when technology submits to our
