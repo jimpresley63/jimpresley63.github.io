@@ -4,7 +4,7 @@
   <title><![CDATA[ArchtITioner]]></title>
   <link href="http://jimpresley63.github.io/atom.xml" rel="self"/>
   <link href="http://jimpresley63.github.io/"/>
-  <updated>2014-04-26T17:09:05-05:00</updated>
+  <updated>2014-04-26T17:11:16-05:00</updated>
   <id>http://jimpresley63.github.io/</id>
   <author>
     <name><![CDATA[Jim Presley]]></name>
@@ -18,9 +18,7 @@
     <link href="http://jimpresley63.github.io/blog/2014/04/26/hello-world/"/>
     <updated>2014-04-26T16:27:30-05:00</updated>
     <id>http://jimpresley63.github.io/blog/2014/04/26/hello-world</id>
-    <content type="html"><![CDATA[<h1>Hello world!</h1>
-
-<p>Given that I am a software developer first and foremost, I figured my first blog
+    <content type="html"><![CDATA[<p>Given that I am a software developer first and foremost, I figured my first blog
 post here should be titled &ldquo;Hello world!&rdquo; If you&rsquo;re reading this, I&rsquo;ve already
 felt that special god-like feeling we geeks receive when technology submits to our
 will and we see the desired result on the display.  Yes!</p>
