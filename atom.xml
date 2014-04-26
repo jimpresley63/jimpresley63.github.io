@@ -4,7 +4,7 @@
   <title><![CDATA[ArchtITioner]]></title>
   <link href="http://jimpresley63.github.io/atom.xml" rel="self"/>
   <link href="http://jimpresley63.github.io/"/>
-  <updated>2014-04-20T17:35:57-05:00</updated>
+  <updated>2014-04-26T17:09:05-05:00</updated>
   <id>http://jimpresley63.github.io/</id>
   <author>
     <name><![CDATA[Jim Presley]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://jimpresley63.github.io/blog/2014/04/26/hello-world/"/>
+    <updated>2014-04-26T16:27:30-05:00</updated>
+    <id>http://jimpresley63.github.io/blog/2014/04/26/hello-world</id>
+    <content type="html"><![CDATA[<h1>Hello world!</h1>
+
+<p>Given that I am a software developer first and foremost, I figured my first blog
+post here should be titled &ldquo;Hello world!&rdquo; If you&rsquo;re reading this, I&rsquo;ve already
+felt that special god-like feeling we geeks receive when technology submits to our
+will and we see the desired result on the display.  Yes!</p>
+
+<p>A little about me. I began coding some 37+ years ago. I love learning and figuring
+out new things. Technology and software engineering have definitely fed my hunger
+to continually explore and grow. I strive for excellence which has led me on a
+journey adding broader and broader skills and responsibilities. As I went from
+developing to designing to architecture, I found out how much I enjoyed working
+with others who shared my passion and helping them learn and grow as I have.</p>
+
+<p>Which leads me to this blog today. If you share my joy of coding, designing,
+and architecting software and building, growing, and leading teams, I hope you&rsquo;ll enjoy
+at least some of what I share.</p>
+
+<p>Hello world! Thanks for stopping by. Let&rsquo;s talk.</p>
+]]></content>
+  </entry>
   
 </feed>
