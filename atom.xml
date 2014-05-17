@@ -1,108 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>ArchtITioner</title>
-  <meta name="author" content="Jim Presley">
-
-  
-  <meta name="description" content="For many years I&rsquo;ve enjoyed history and reflecting on what things must have been
-like for people in other places and times. Some of our &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://jimpresley63.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="ArchtITioner" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Archt<span class="headerIT">IT</span>ioner</a></h1>
-  
-    <h2>Ramblings of a long-time practitioner of IT architecture</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:jimpresley63.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[ArchtITioner]]></title>
+  <link href="http://jimpresley63.github.io/atom.xml" rel="self"/>
+  <link href="http://jimpresley63.github.io/"/>
+  <updated>2014-05-16T20:59:50-05:00</updated>
+  <id>http://jimpresley63.github.io/</id>
+  <author>
+    <name><![CDATA[Jim Presley]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2014/05/16/history-lessons/">History Lessons</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2014-05-16T17:18:46-05:00" pubdate data-updated="true">May 16<span>th</span>, 2014</time>
-        
-           | <a href="/blog/2014/05/16/history-lessons/#disqus_thread"
-             data-disqus-identifier="http://jimpresley63.github.io/blog/2014/05/16/history-lessons/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>For many years I&rsquo;ve enjoyed history and reflecting on what things must have been
+  <entry>
+    <title type="html"><![CDATA[History Lessons]]></title>
+    <link href="http://jimpresley63.github.io/blog/2014/05/16/history-lessons/"/>
+    <updated>2014-05-16T17:18:46-05:00</updated>
+    <id>http://jimpresley63.github.io/blog/2014/05/16/history-lessons</id>
+    <content type="html"><![CDATA[<p>For many years I&rsquo;ve enjoyed history and reflecting on what things must have been
 like for people in other places and times. Some of our favorite family trips
 have been immersive historical experiences in places like Williamsburg, Virginia
 or New Salem, Illinois where characters in costume recreate times long since
-past. <img class="right" src="/images/williamsburg2.png" title="Williamsburg" > Perhaps a result of that predisposition, along with my 30th anniversary as
+past. <img class="right" src="http://jimpresley63.github.io/images/williamsburg2.png" title="Williamsburg" > Perhaps a result of that predisposition, along with my 30th anniversary as
 an IT professional, I  have taken time to pause to think about the history of IT
 and where it is headed.</p>
 
@@ -137,45 +57,15 @@ this to mean that a failed attempt should become a new &ldquo;law&rdquo; of IT p
 archtITioner be careful what you learn from failure. Consider the entire context
 and question every assumption you make. <strong>Old discarded ideas may be good fodder for
 tomorrow&rsquo;s innovation.</strong></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/05/03/intelligent-it/">Agile: Intelligent IT</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-05-03T10:13:53-05:00" pubdate data-updated="true">May 3<span>rd</span>, 2014</time>
-        
-           | <a href="/blog/2014/05/03/intelligent-it/#disqus_thread"
-             data-disqus-identifier="http://jimpresley63.github.io/blog/2014/05/03/intelligent-it/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I came across an interesting
+  <entry>
+    <title type="html"><![CDATA[Agile: Intelligent IT]]></title>
+    <link href="http://jimpresley63.github.io/blog/2014/05/03/intelligent-it/"/>
+    <updated>2014-05-03T10:13:53-05:00</updated>
+    <id>http://jimpresley63.github.io/blog/2014/05/03/intelligent-it</id>
+    <content type="html"><![CDATA[<p>I came across an interesting
 <a href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence">TEDTalk</a>
 by <a href="http://www.alexwg.org/">Alex Wissner-Gross</a> proposing an equation for
 intelligence. The essence of the equation, F = T ∇ Sτ, is simply that
@@ -231,45 +121,15 @@ you trap yourself like this? It is not the intelligent thing to do. Now we
 know. <strong>Debate over</strong>. Ahhh&hellip;at least I feel better. All of the guilty
 feelings over the years for <em>&ldquo;not following the process&rdquo;</em> and instead just
 getting <em>&ldquo;%#!~&rdquo;</em> done are gone.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/04/26/hello-world/">Hello World!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-04-26T16:27:30-05:00" pubdate data-updated="true">Apr 26<span>th</span>, 2014</time>
-        
-           | <a href="/blog/2014/04/26/hello-world/#disqus_thread"
-             data-disqus-identifier="http://jimpresley63.github.io/blog/2014/04/26/hello-world/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Given that I am a software developer first and foremost, I figured my first blog
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://jimpresley63.github.io/blog/2014/04/26/hello-world/"/>
+    <updated>2014-04-26T16:27:30-05:00</updated>
+    <id>http://jimpresley63.github.io/blog/2014/04/26/hello-world</id>
+    <content type="html"><![CDATA[<p>Given that I am a software developer first and foremost, I figured my first blog
 post here should be titled &ldquo;Hello world!&rdquo; If you&rsquo;re reading this, I&rsquo;ve already
 felt that special god-like feeling we geeks receive when technology submits to our
 will and we see the desired result on the display.  Yes!</p>
@@ -286,92 +146,7 @@ and architecting software and building, growing, and leading teams, I hope you&r
 at least some of what I share.</p>
 
 <p>Hello world! Thanks for stopping by. Let&rsquo;s talk.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2014/05/16/history-lessons/">History Lessons</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/05/03/intelligent-it/">Agile: Intelligent IT</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/04/26/hello-world/">Hello World!</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>Twitter</h1>     
-  <a class="twitter-timeline" href="https://twitter.com/jimpresley63" data-widget-id="379079312965525504">Tweets by @jimpresley63</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
- </section>
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Jim Presley -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'jimpresley63';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
