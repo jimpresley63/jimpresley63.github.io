@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ArchtITioner]]></title>
-  <link href="http://jimpresley63.github.io/atom.xml" rel="self"/>
-  <link href="http://jimpresley63.github.io/"/>
-  <updated>2014-05-16T22:03:28-05:00</updated>
-  <id>http://jimpresley63.github.io/</id>
+  <link href="http://archtitioner.com/atom.xml" rel="self"/>
+  <link href="http://archtitioner.com/"/>
+  <updated>2014-05-17T16:21:27-05:00</updated>
+  <id>http://archtitioner.com/</id>
   <author>
     <name><![CDATA[Jim Presley]]></name>
     
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[History Lessons]]></title>
-    <link href="http://jimpresley63.github.io/blog/2014/05/16/history-lessons/"/>
+    <link href="http://archtitioner.com/blog/2014/05/16/history-lessons/"/>
     <updated>2014-05-16T17:18:46-05:00</updated>
-    <id>http://jimpresley63.github.io/blog/2014/05/16/history-lessons</id>
+    <id>http://archtitioner.com/blog/2014/05/16/history-lessons</id>
     <content type="html"><![CDATA[<p>For many years I&rsquo;ve enjoyed history and reflecting on what things must have been
 like for people in other places and times. Some of our favorite family trips
 have been immersive historical experiences in places like Williamsburg, Virginia
 or New Salem, Illinois where characters in costume recreate times long since
-past. <img class="right" src="http://jimpresley63.github.io/images/williamsburg2.png" title="Williamsburg" > Perhaps a result of that predisposition, along with my 30th anniversary as
+past. <img class="right" src="http://archtitioner.com/images/williamsburg2.png" title="Williamsburg" > Perhaps a result of that predisposition, along with my 30th anniversary as
 an IT professional, I  have taken time to pause to think about the history of IT
 and where it is headed.</p>
 
@@ -46,8 +46,9 @@ limitations of client hardware and the  proprietary nature of fat-client
 languages and tools ultimately led to the web becoming the preferred mechanism
 for building business applications. <strong>Now 15 years later, JavaScript frameworks are
 maturing that leverage many of the same concepts albeit much more robust
-implementations.</strong>
-<img class="center" src="http://jimpresley63.github.io/images/cycle.png" width="100" height="60">
+implementations.</strong></p>
+
+<p><img class="center" src="http://archtitioner.com/images/cycle.png" width="100" height="60">
 These two examples show how <strong>technology will cycle as it moves forward.</strong> Visionary
 concepts gain intellectual traction but do not always pass the technological
 readiness test and are discarded. It doesn&rsquo;t mean the idea was bad just not
@@ -62,9 +63,9 @@ tomorrow&rsquo;s innovation.</strong></p>
   
   <entry>
     <title type="html"><![CDATA[Agile: Intelligent IT]]></title>
-    <link href="http://jimpresley63.github.io/blog/2014/05/03/intelligent-it/"/>
+    <link href="http://archtitioner.com/blog/2014/05/03/intelligent-it/"/>
     <updated>2014-05-03T10:13:53-05:00</updated>
-    <id>http://jimpresley63.github.io/blog/2014/05/03/intelligent-it</id>
+    <id>http://archtitioner.com/blog/2014/05/03/intelligent-it</id>
     <content type="html"><![CDATA[<p>I came across an interesting
 <a href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence">TEDTalk</a>
 by <a href="http://www.alexwg.org/">Alex Wissner-Gross</a> proposing an equation for
@@ -126,9 +127,9 @@ getting <em>&ldquo;%#!~&rdquo;</em> done are gone.</p>
   
   <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://jimpresley63.github.io/blog/2014/04/26/hello-world/"/>
+    <link href="http://archtitioner.com/blog/2014/04/26/hello-world/"/>
     <updated>2014-04-26T16:27:30-05:00</updated>
-    <id>http://jimpresley63.github.io/blog/2014/04/26/hello-world</id>
+    <id>http://archtitioner.com/blog/2014/04/26/hello-world</id>
     <content type="html"><![CDATA[<p>Given that I am a software developer first and foremost, I figured my first blog
 post here should be titled &ldquo;Hello world!&rdquo; If you&rsquo;re reading this, I&rsquo;ve already
 felt that special god-like feeling we geeks receive when technology submits to our

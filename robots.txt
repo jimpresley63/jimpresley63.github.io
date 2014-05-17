@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jimpresley63.github.io/sitemap.xml 
+Sitemap: http://archtitioner.com/sitemap.xml 
